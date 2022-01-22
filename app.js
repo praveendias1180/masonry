@@ -13,6 +13,7 @@ window.onload = () => {
         path: '/index-{{#}}.html',
         append: '.grid-item',
         outlayer: masonry,
+        status: '.page-load-status'
         // history: false,
     });
 }
