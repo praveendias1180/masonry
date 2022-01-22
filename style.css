@@ -1,5 +1,10 @@
+.grid{
+    border: 1px solid red;
+    padding: 20px;
+}
 .grid-item{
     width: 200px;
+    margin-bottom: 20px;
 }
 
 .grid-item img{
