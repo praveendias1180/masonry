@@ -1,5 +1,7 @@
-.grid{
+.container {
     border: 1px solid red;
+}
+.grid{
     padding: 20px;
 }
 .grid-item{
