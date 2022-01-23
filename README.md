@@ -13,3 +13,7 @@ Masonry works by placing elements in optimal position based on available vertica
 ## Flex-grow
 
 ![Masonry](masonry-h.gif)
+
+# Infinite Scroll
+
+[EXPERIENCE Infinite Scroll](https://praveendias1180.github.io/masonry/)
