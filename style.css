@@ -3,6 +3,12 @@
     max-width: 700px;
     margin: auto;
 }
+
+.container h1{
+    padding: 20px;
+
+}
+
 .grid{
     padding: 20px;
 }
