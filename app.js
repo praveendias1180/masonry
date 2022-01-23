@@ -10,7 +10,7 @@ window.onload = () => {
     let elem_s = document.querySelector('.grid');
     let infScroll = new InfiniteScroll( elem_s, {
         // options
-        path: '/index-{{#}}.html',
+        path: '/masonry/index-{{#}}.html',
         append: '.grid-item',
         outlayer: masonry,
         status: '.page-load-status'
